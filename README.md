@@ -128,3 +128,13 @@ file position.
 [cov-url]: https://codecov.io/github/baudehlo/node-fs-ext?branch=master
 [ci-win-img]: https://ci.appveyor.com/api/projects/status/pqbnutckk0n46uc8?svg=true
 [ci-win-url]: https://ci.appveyor.com/project/baudehlo/node-fs-ext/branch/master
+
+# Dependencies
+
+[`tea/cli`] will automagically make these available to your environment.
+
+| Project                           |  Version  |
+|-----------------------------------|-----------|
+| nodejs.org                        | =18.15.0  |
+| npmjs.com                         | =9.6.7    |
+| python.org                        | ^3.10     |
